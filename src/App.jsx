@@ -142,7 +142,7 @@ const HeroSection = () => {
           
           {/* To enable this button, place your resume PDF (e.g., "resume.pdf") in the 'public' folder of your project. */}
           {/* Then, make sure the href below matches the filename. */}
-          <a href="/resume.pdf" download className="bg-teal-500 text-white font-bold py-3 px-8 rounded-full hover:bg-teal-600 transition-transform duration-300 transform hover:scale-105 inline-flex items-center justify-center">
+          <a href="/Tahsim_Akram.pdf" download className="bg-teal-500 text-white font-bold py-3 px-8 rounded-full hover:bg-teal-600 transition-transform duration-300 transform hover:scale-105 inline-flex items-center justify-center">
             <Download className="w-5 h-5 mr-2" />
             Download Resume
           </a>
