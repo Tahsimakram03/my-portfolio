@@ -394,8 +394,18 @@ const AchievementsSection = () => (
         <ul className="list-disc list-inside space-y-3 text-gray-300 text-lg">
           <li>
             Completed over{" "}
-            <span className="font-bold text-cyan-400">250 problems</span> on
-            LeetCode and GeeksforGeeks.
+            <span className="font-bold text-cyan-400">250+ problems</span> on
+            GeeksforGeeks and on{" "}
+            <a
+              href="https://tinyurl.com/TahsimLeetcode"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center underline hover:text-cyan-400 transition-colors"
+            >
+              my LeetCode profile
+              <ExternalLink className="w-4 h-4 ml-1.5" />
+            </a>
+            .
           </li>
           <li>
             Demonstrated consistent problem-solving ability across multiple data
@@ -514,7 +524,7 @@ const Footer = ({ navLinks }) => {
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transition-colors duration-300"
             >
-              LeetCode
+              LeetCode Profile
             </a>
           </div>
         </div>
