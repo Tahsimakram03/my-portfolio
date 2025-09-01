@@ -199,7 +199,7 @@ const HeroSection = () => {
           </button>
 
           <a
-            href="https://drive.google.com/uc?export=download&id=14jq0jCk7dNcU_mwyZwYzjf6hxy5MNnLK"
+            href="https://drive.google.com/drive/u/0/folders/1M-Au6kcmAa7AMU7PVZpdgfU1nn1JvPg_"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-teal-500 text-white font-bold py-3 px-8 rounded-full hover:bg-teal-600 transition-transform duration-300 transform hover:scale-105 inline-flex items-center justify-center"
