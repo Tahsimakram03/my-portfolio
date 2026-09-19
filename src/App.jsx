@@ -740,7 +740,7 @@ const ContactSection = () => (
         <a href="mailto:tahsimakram03@gmail.com" className="group inline-flex items-center gap-3 font-body text-lg text-[#E9EEEF] hover:text-[#4FD1A5] transition-colors focus-ring w-fit">
           <Mail size={20} className="text-[#4FD1A5] group-hover:scale-110 transition-transform" /> tahsimakram03@gmail.com
         </a>
-        <a href="https://linkedin.com/in/tahsim-akram-03/" target="_blank" rel="noopener noreferrer" className="group inline-flex items-center gap-3 font-body text-lg text-[#E9EEEF] hover:text-[#4FD1A5] transition-colors focus-ring w-fit">
+        <a href="https://linkedin.com/in/tahsim-akram03/" target="_blank" rel="noopener noreferrer" className="group inline-flex items-center gap-3 font-body text-lg text-[#E9EEEF] hover:text-[#4FD1A5] transition-colors focus-ring w-fit">
           <Linkedin size={20} className="text-[#4FD1A5] group-hover:scale-110 transition-transform" /> linkedin.com/in/tahsim-akram-03
         </a>
         <a href="https://github.com/Tahsimakram03" target="_blank" rel="noopener noreferrer" className="group inline-flex items-center gap-3 font-body text-lg text-[#E9EEEF] hover:text-[#4FD1A5] transition-colors focus-ring w-fit">
