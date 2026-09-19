@@ -770,7 +770,7 @@ const Footer = ({ navLinks }) => {
           ))}
         </div>
         <div className="flex items-center gap-4">
-          <a href="https://linkedin.com/in/tahsim-akram-03/" target="_blank" rel="noopener noreferrer" className="text-[#8B9AA1] hover:text-[#4FD1A5] transition-colors focus-ring">
+          <a href="https://linkedin.com/in/tahsim-akram03/" target="_blank" rel="noopener noreferrer" className="text-[#8B9AA1] hover:text-[#4FD1A5] transition-colors focus-ring">
             <Linkedin size={18} />
           </a>
           <a href="https://github.com/Tahsimakram03" target="_blank" rel="noopener noreferrer" className="text-[#8B9AA1] hover:text-[#4FD1A5] transition-colors focus-ring">
